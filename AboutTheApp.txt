@@ -1,4 +1,4 @@
 I developed an ASP.NET Core Web Application With SQL Server Database Connection and CRUD Operations. 
 I am using a local host database with Sql Express.
-The user can Add a new movie or Edit/Delete an existing movie from the database displayed on the /Movies/Index page.
+The user can Add a new movie or Edit/Delete an existing movie from the database displayed on the /Pages/Movies/Index page.
 You can see the app in the ShowcaseWebApp.pdf file of the directory.
